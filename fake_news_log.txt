@@ -2,3 +2,22 @@
  BREAKING NEWS shahrukh khan launches at ganga ghat
  BREAKING NEWS auto rikshaw driver from delhi eat in mumbai local train
  BREAKING NEWS a group of monkeys orders india gate
+{'Politics': ['Nirmala Sitharaman', 'Prime Minister Modi'], 'Bollywood': ['Shahrukh Khan'], 'Sports': ['Virat Kohli'], 'Animals': ['a Mumbai cat', 'a group of monkeys'], 'Public': ['an auto-rickshaw driver from Delhi']} : BREAKING NEWS a group of monkeys launches india gate
+Politics : BREAKING NEWS prime minister modi dances with suring ipl match
+Bollywood : BREAKING NEWS nirmala sitaraman decalres war on a plote of samosa
+Animals : BREAKING NEWS a mumbai cat celebration suring ipl match
+Bollywood : BREAKING NEWS auto rikshaw driver from delhi celebration at red fort
+Animals : BREAKING NEWS a mumbai cat dances with at ganga ghat
+Animals : BREAKING NEWS a mumbai cat orders at ganga ghat
+Bollywood : BREAKING NEWS shahrukh khan orders in mumbai local train
+Politics : BREAKING NEWS auto rikshaw driver from delhi celebration suring ipl match
+Sports : BREAKING NEWS virat kohli eat at red fort
+Politics : BREAKING NEWS virat kohli orders a plote of samosa
+Bollywood : BREAKING NEWS a mumbai cat cancels at ganga ghat
+Animals : BREAKING NEWS prime minister modi decalres war on suring ipl match
+Public : BREAKING NEWS prime minister modi celebration in mumbai local train
+Bollywood : BREAKING NEWS prime minister modi cancels at red fort
+Bollywood : BREAKING NEWS shahrukh khan celebration a plote of samosa
+Bollywood : BREAKING NEWS a group of monkeys decalres war on suring ipl match
+Sports : BREAKING NEWS shahrukh khan launches at ganga ghat
+Sports : BREAKING NEWS nirmala sitaraman dances with in mumbai local train
