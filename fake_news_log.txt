@@ -25,3 +25,9 @@ Animals : BREAKING NEWS ------ a group of monkeys cancels india gate ---
 
 Sports : BREAKING NEWS ------ a mumbai cat eat india gate ---
 
+Public : BREAKING NEWS ------ a group of monkeys eat in mumbai local train ---
+
+Bollywood : BREAKING NEWS ------ prime minister modi dances with india gate ---
+
+Public : BREAKING NEWS ------ a mumbai cat cancels a plote of samosa 
+

@@ -39,7 +39,7 @@ with open("fake_news_log.txt", "a") as file:
         subject=random.choice(subjects)
         action=random.choice(actions)
         place=random.choice(place_or_things)
-        headline=f"{category} : BREAKING NEWS ------ {subject} {action} {place} ---\n"
+        headline=f"{category} : BREAKING NEWS ------ {subject} {action} {place} \n"
         
    
         print("\n ",headline)
